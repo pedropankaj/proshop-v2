@@ -14,8 +14,6 @@ node_modules
 
 # misc
 .DS_Store
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -29,3 +27,7 @@ uploads/*jpg
 
 # API tests
 http
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
